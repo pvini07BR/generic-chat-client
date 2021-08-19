@@ -4,6 +4,8 @@ A very simple chat client made in Python with Tkinter, with support to nicknames
 # How to compile and host a server by yourself
 First, you need [Python](https://www.python.org/downloads/) installed.
 
+(If you're in Linux, you may need ``python-tk`` to run the client. In debian-based, you can just type ``sudo apt install python-tk``. In Arch Linux-based, ``pacman -S python-tk``.)
+
 And then, if you want to clone the repository from a terminal, you will need Git installed on your computer. Otherwise, you can just download a .zip of the repository. But cloning is recommended.
 
 Open CMD/Powershell (If you're on Windows) or your Terminal (if you are in MacOS/Linux) and clone (download) the repository to the desired folder that you want:
@@ -25,7 +27,7 @@ Now open the client:
 ```
 python client.py
 ```
-Insert your nickname, and if you want to connect to the server that is hosted in your localhost, you can keep the default values. Then press the "Connect to chat" button, or press Enter.
+Insert your nickname, and if you want to connect to the server that is hosted in your localhost, you can keep the default values. Otherwise you can use an Public IP that is port fowarded with an server already running. Then press the "Connect to chat" button, or press Enter.
 
 If a chat screen appears, congrats! You are sucefully running your own server and connected to it.
 
