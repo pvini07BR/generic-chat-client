@@ -8,7 +8,7 @@ First, you need [Python](https://www.python.org/downloads/) installed.
 
 (If you're in Linux, you may need ``python-tk`` to run the client. In Debian-based, you can just type ``apt install python-tk``. In Arch Linux-based, ``pacman -S tk``. In Windows, ``pip install tk``.)
 
-And then, if you want to clone the repository from a terminal, you will need Git installed on your computer. Otherwise, you can just download a .zip of the repository. But cloning is recommended.
+And then, if you want to clone the repository from a terminal, you will need [Git](https://git-scm.com/downloads) installed on your computer. Otherwise, you can just download a .zip of the repository. But cloning is recommended.
 
 Open CMD/Powershell (If you're on Windows) or your Terminal (if you are in MacOS/Linux) and clone (download) the repository to the desired folder that you want:
 ```
