@@ -47,5 +47,5 @@ Server:
 pyinstaller --onefile server.py
 ```
 - ``--onefile``: This will pack the entire .py file and its dependencies into one single .exe file.
-- ```-w``: This will make the .exe file to not open an command prompt window when running it.
+- ``-w``: This will make the .exe file to not open an command prompt window when running it.
 - ``client.py``/``server.py``: The target .py file to be compiled.
