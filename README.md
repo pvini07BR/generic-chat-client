@@ -1,6 +1,8 @@
 # Generic Chat Client
 A very simple chat client made in Python with Tkinter, with support to nicknames and embedding images (GIFs aren't supported yet) from links. It also comes with an server to host it by yourself.
 
+**NOTE: This is in very early development. It can have a lot of bugs... And exploits too. Be careful.**
+
 # How to compile and host a server by yourself
 First, you need [Python](https://www.python.org/downloads/) installed.
 
