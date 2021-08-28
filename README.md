@@ -6,7 +6,7 @@ A very simple chat client made in Python with Tkinter, with support to nicknames
 # How to compile and host a server by yourself
 First, you need [Python](https://www.python.org/downloads/) installed.
 
-(You may need ``python-tk`` to run the client. In Linux Debian-based, you can just type ``apt install python-tk``. In Arch Linux-based, ``pacman -S tk``. In Windows, ``pip install tk``.)
+(You may need ``python3-tk`` and ``Pillow (PIL)`` to run the client. In Linux Debian-based, you can just type ``apt install python3-tk``. In Arch Linux-based, ``pacman -S tk``. In pip, ``pip install tk``, and ``pip install pillow``.)
 
 And then, if you want to clone the repository from a terminal, you will need [Git](https://git-scm.com/downloads) installed on your computer. Otherwise, you can just download a .zip of the repository. But cloning is recommended.
 
